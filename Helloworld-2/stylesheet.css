@@ -1,0 +1,7 @@
+h1 {
+  font-size: 25px;
+  color: red;
+}
+h1.abc {
+  color: green;
+}
