@@ -1,0 +1,36 @@
+body {
+  font-family: Roboto;
+}
+
+div.content {
+  box-shadow: 0px 0px 8px #aaa;
+  width: 400px;
+  padding: 16px;
+  margin-left: 16px;
+  margin-right: 16px;
+  margin-top: 32px;
+  display:  inline-block;
+  background: url(http://images4.fanpop.com/image/photos/17500000/cool-backgrounds-random-17514354-1024-640.jpg);
+  background-repeat: no-repeat;
+  color: white;
+}
+
+strong {
+  font-weight: normal;
+}
+
+h1 {
+  font-family: Roboto;
+  font-weight: 100;
+  text-align: center;
+}
+
+div.fade {
+  background: rgba(255,255,255,0.3);
+  margin: 0 -16px;
+  padding: 0 16px;
+}
+
+a.dupa {
+  color: #cccccc;
+}
